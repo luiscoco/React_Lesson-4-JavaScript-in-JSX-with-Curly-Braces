@@ -1,5 +1,7 @@
 # JSX Curly Demo (React 19 + Vite)
 
+https://stackblitz.com/github/luiscoco/React_Lesson-4-JavaScript-in-JSX-with-Curly-Braces
+
 A tiny app to practice **JavaScript in JSX with curly braces**:
 - Variables and expressions inside JSX text
 - Dynamic attributes (src, alt, style)
