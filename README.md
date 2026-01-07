@@ -1,4 +1,4 @@
-# JSX Curly Demo (React 19 + Vite)
+# React 19.2 - Lesson 4 - JSX Curly Demo (React 19 + Vite)
 
 https://stackblitz.com/github/luiscoco/React_Lesson-4-JavaScript-in-JSX-with-Curly-Braces
 
