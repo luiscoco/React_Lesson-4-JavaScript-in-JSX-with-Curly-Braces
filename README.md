@@ -4,6 +4,10 @@ https://stackblitz.com/github/luiscoco/React_Lesson-4-JavaScript-in-JSX-with-Cur
 
 A tiny app to practice **JavaScript in JSX with curly braces**. It renders a themed dashboard, a profile card, and a todo list while showcasing expressions, objects, lists, and inline styles in JSX.
 
+## Demo
+
+<img width="1355" height="959" alt="image" src="https://github.com/user-attachments/assets/9a43b0df-7cd4-4243-8e28-bccccd224da8" />
+
 ## Features (with snippets)
 
 - Variables and expressions inside JSX text
